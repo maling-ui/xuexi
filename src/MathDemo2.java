@@ -3,6 +3,7 @@ public class MathDemo2 {
         int a=3,b=5;
         System.out.println("a<b="+(a<b));
         System.out.println("a>b="+(a>b));
+        s
     }
 
 
