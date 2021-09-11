@@ -1,3 +1,5 @@
+package com.imooc.operator;
+
 import java.util.Scanner;
 
 public class ConditionDemo2 {

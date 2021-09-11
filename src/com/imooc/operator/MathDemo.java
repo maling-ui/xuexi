@@ -1,3 +1,5 @@
+package com.imooc.operator;
+
 public class MathDemo {
     public static void main(String[] args){
         int numu1=10, numu2=5;

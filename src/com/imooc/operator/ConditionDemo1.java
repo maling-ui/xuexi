@@ -1,3 +1,5 @@
+package com.imooc.operator;
+
 public class ConditionDemo1 {
     public static void main(String[] args) {
         double price1,price2;
