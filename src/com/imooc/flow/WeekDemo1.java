@@ -15,7 +15,6 @@ public class WeekDemo1 {
             case 5:System.out.println("星期5");break;
             case 6:System.out.println("星期6");break;
             case 7:System.out.println("星期7");break;
-            123
             default:System.out.println("该数字超出范围！");
         }
     }
